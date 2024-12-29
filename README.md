@@ -37,8 +37,6 @@ Todos los proyectos freelance que ofrezco se ajustan al siguiente esquema:
 ### **Reunión Inicial**
 El cliente plantea la propuesta de diseño. En esta etapa se discuten las necesidades principales y los objetivos del proyecto.
 
----
-
 ### **Anteproyecto**
 Se abona el período de anteproyecto, donde realizo un análisis exhaustivo para desarrollar una solución viable.  
 Incluye:  
@@ -49,8 +47,6 @@ Incluye:
 - **Informe técnico**: Documento detallado que incluye la solución propuesta, cronograma, y presupuesto final.  
 
 Al finalizar esta etapa, el cliente recibe un informe con el costo y tiempo estimado para la implementación del proyecto.
-
----
 
 ### **Implementación**
 Si el cliente aprueba la propuesta, se procede con la implementación.  
@@ -63,11 +59,10 @@ Esta etapa incluye:
 
 *Nota*: En proyectos grandes, el costo del anteproyecto se descuenta de la etapa de implementación.
 
----
-
 ### **Complementos Opcionales**
 - **Testing en campo**: Pruebas realizadas en tiempo real junto al cliente para verificar la solución completa y asegurar la puesta a punto final. Ideal para clientes sin formación técnica.  
-- **Manual de usuario**: Creación de un manual detallado con guías de uso y troubleshooting para el servicio técnico.  
+- **Manual de usuario**: Creación de un manual detallado con guías de uso
+- **Manual de servico técnico:** Troubleshooting para reparación de servicio técnico.  
 
 ---
 
