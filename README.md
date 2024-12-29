@@ -13,26 +13,6 @@ Mi enfoque está en sistemas embebidos y tecnologías IoT.
 
 ---
 
-## Repositorios Públicos
-A lo largo de mí perfil GitHub encontrarán proyectos académicos destacados o pruebas concepto profesionales. En general, previo a hacer desarrollos para mis clientes, hacer pruebas concepto en la etapa de anteproyecto o incluso etapas de investigación sobre alguna tecnología a utilizar. A continuación encontrarán algunos de ellos.
-
-### Wi-Fi HTTP Server
-- 🔗 [Wi-Fi HTTP Server](https://github.com/NicolasTobiasAlmaraz/wifi_http_server)
-- Prueba concepto servidor web HTTP en ESP32 usando Arduino IDE, GUI via app móvil.
-
-### Filtro Activo de Armónicos de Corriente
-- 🔗 [Filtro Activo de Armónicos de Corriente](https://github.com/NicolasTobiasAlmaraz/filtro_activo_armonicos_corriente)
-- Protyecto final de "Curso de Sistemas Embebidos - ARM Book FIUBA", que fue utilizado como base para el proyecto final de "Electrónica de Potencia - UTN FRBA".
-
----
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NicolasTobiasAlmaraz&show_icons=true&theme=radical)
-
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasTobiasAlmaraz&layout=compact&theme=radical)
-
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=NicolasTobiasAlmaraz&theme=radical)
-
 ## Habilidades Técnicas
 - Lenguajes de programación: Embedded C/C++, Python.
 - Experiencia con controladores: ARM Cortex M (general), STM32, ESP32.
@@ -51,6 +31,7 @@ A lo largo de mí perfil GitHub encontrarán proyectos académicos destacados o 
 
 ## Servicios Freelance
 
+Brindo servicios freelance para el diseño y desarrollo de productos que impliquen ingeniería electrónica.
 Todos los proyectos freelance que ofrezco se ajustan al siguiente esquema:
 
 ### **Reunión Inicial**
@@ -87,6 +68,29 @@ Esta etapa incluye:
 ### **Complementos Opcionales**
 - **Testing en campo**: Pruebas realizadas en tiempo real junto al cliente para verificar la solución completa y asegurar la puesta a punto final. Ideal para clientes sin formación técnica.  
 - **Manual de usuario**: Creación de un manual detallado con guías de uso y troubleshooting para el servicio técnico.  
+
+---
+
+## Experiencia
+A lo largo de mí perfil GitHub encontrarán proyectos académicos destacados o pruebas concepto profesionales. En general, previo a hacer desarrollos para mis clientes, hacer pruebas concepto en la etapa de anteproyecto o incluso etapas de investigación sobre alguna tecnología a utilizar. A continuación encontrarán algunos de ellos.
+
+### Wi-Fi HTTP Server
+- 🔗 [Wi-Fi HTTP Server](https://github.com/NicolasTobiasAlmaraz/wifi_http_server)
+- Prueba concepto servidor web HTTP en ESP32 usando Arduino IDE, GUI via app móvil.
+
+### Filtro Activo de Armónicos de Corriente
+- 🔗 [Filtro Activo de Armónicos de Corriente](https://github.com/NicolasTobiasAlmaraz/filtro_activo_armonicos_corriente)
+- Protyecto final de "Curso de Sistemas Embebidos - ARM Book FIUBA", que fue utilizado como base para el proyecto final de "Electrónica de Potencia - UTN FRBA".
+
+---
+
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NicolasTobiasAlmaraz&show_icons=true&theme=radical)
+
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasTobiasAlmaraz&layout=compact&theme=radical)
+
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=NicolasTobiasAlmaraz&theme=radical)
 
 ---
 
