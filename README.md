@@ -17,11 +17,13 @@ Mi enfoque está en sistemas embebidos y tecnologías IoT.
 
 En general, previo a hacer desarrollos para clientes se hacen distitnas pruebas concepto o etapas de investigación sobre algún tema específico. A continuación encontrarán algunos de llos
 
-### [Wi-Fi HTTP Server](https://github.com/NicolasTobiasAlmaraz/wifi_http_server)
-**Descripción breve del repositorio.** Prueba concepto servidor web HTTP en ESP32 usando Arduino IDE, GUI via app móvil.
+### Wi-Fi HTTP Server
+- 🔗 [Wi-Fi HTTP Server](https://github.com/NicolasTobiasAlmaraz/wifi_http_server)
+- **Descripción breve del repositorio.** Prueba concepto servidor web HTTP en ESP32 usando Arduino IDE, GUI via app móvil.
 
-### [Filtro Activo de Armónicos de Corriente](https://github.com/NicolasTobiasAlmaraz/filtro_activo_armonicos_corriente)
-**Descripción breve del repositorio.** Protyecto final de "Curso de Sistemas Embebidos - ARM Book FIUBA", que fue utilizado como base para el proyecto final de "Electrónica de Potencia - UTN FRBA".
+### Filtro Activo de Armónicos de Corriente
+- 🔗 [Filtro Activo de Armónicos de Corriente](https://github.com/NicolasTobiasAlmaraz/filtro_activo_armonicos_corriente)
+- **Descripción breve del repositorio.** Protyecto final de "Curso de Sistemas Embebidos - ARM Book FIUBA", que fue utilizado como base para el proyecto final de "Electrónica de Potencia - UTN FRBA".
 
 ---
 ## Estadísticas de GitHub
