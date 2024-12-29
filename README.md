@@ -79,16 +79,6 @@ A lo largo de mí perfil GitHub encontrarán proyectos académicos destacados o 
 
 ---
 
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NicolasTobiasAlmaraz&show_icons=true&theme=radical)
-
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasTobiasAlmaraz&layout=compact&theme=radical)
-
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=NicolasTobiasAlmaraz&theme=radical)
-
----
-
 ## Contacto
 
 Si estás interesado en mis servicios o tienes alguna pregunta, ¡No dudes en contactarme!
@@ -96,6 +86,13 @@ Si estás interesado en mis servicios o tienes alguna pregunta, ¡No dudes en co
 - 📧 **Correo electrónico:** [nnico.almaraz@gmail.com](mailto:nnico.almaraz@gmail.com)
 - 📱 **Teléfono:** +54 9 11 3859-6817
 - 💼 **LinkedIn:** [linkedin.com/in/nicolasalmaraz](https://www.linkedin.com/in/nicolasalmaraz/)
+
+---
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NicolasTobiasAlmaraz&show_icons=true&theme=radical)
+
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasTobiasAlmaraz&layout=compact&theme=radical)
 
 ---
 
