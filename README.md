@@ -20,13 +20,14 @@ Mi enfoque está en sistemas embebidos y tecnologías IoT.
 - Paradigmas: RTOS, Event Driven, POO.
 - RTOS: FreeRTOS
 - Periféricos básicos: UART, SPI, I2C, I2S, RS845.
-- Redes y comunicación: HTTP, MQTT, TCP/IP.
+- Redes y comunicación: HTTP/HTTPS, MQTT, TCP/IP, UDP.
 - Simuladores de Hardware: LTSpice, Plecs.
 - Diseño de PCBs: Altium Designer.
 - Repositorio y versinado: Git&Github
 - Complementarios para GUI y pruebas concepto: Qt, HTML/CSS/JS, Flutter  
 - Documentación: informes de ingeniería, manual de usuario, troubleshoting servicio técnico, notebooks.
 - Bases de datos: PostgreSQL
+
 ---
 
 ## Servicios Freelance
@@ -67,15 +68,22 @@ Esta etapa incluye:
 ---
 
 ## Experiencia
-A lo largo de mí perfil GitHub encontrarán proyectos académicos destacados o pruebas concepto profesionales. En general, previo a hacer desarrollos para mis clientes, hacer pruebas concepto en la etapa de anteproyecto o incluso etapas de investigación sobre alguna tecnología a utilizar. A continuación encontrarán algunos de ellos.
+A lo largo de mí perfil GitHub encontrarán:
+- Proyectos académicos: De la UTN FRBA o de diversos cursos, así también como algunas pruebas didácticas
+- Pruebas concepto: Previo a hacer desarrollos para mis clientes, suelo hacer algunas pruebas concepto en la etapa de anteproyecto o incluso etapas de investigación sobre alguna tecnología a utilizar.
+
+A continuación algunos ejemplos
 
 ### Wi-Fi HTTP Server
 - 🔗 [Wi-Fi HTTP Server](https://github.com/NicolasTobiasAlmaraz/wifi_http_server)
-- Prueba concepto servidor web HTTP en ESP32 usando Arduino IDE, GUI via app móvil.
+- Prueba concepto servidor web HTTP en ESP32
+- Estudio del protocolo HTTP
+- Base para comunicar una app móvil con un sistema embebido en una WLAN.
 
 ### Filtro Activo de Armónicos de Corriente
 - 🔗 [Filtro Activo de Armónicos de Corriente](https://github.com/NicolasTobiasAlmaraz/filtro_activo_armonicos_corriente)
 - Protyecto final de "Curso de Sistemas Embebidos - ARM Book FIUBA", que fue utilizado como base para el proyecto final de "Electrónica de Potencia - UTN FRBA".
+- DSP y adquisición de datos para un AHF
 
 ---
 
