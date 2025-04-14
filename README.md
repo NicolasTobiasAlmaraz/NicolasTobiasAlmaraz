@@ -48,6 +48,7 @@ Incluye:
 - **Informe técnico**: Documento detallado que incluye la solución propuesta, cronograma, y presupuesto final.  
 
 Al finalizar esta etapa, el cliente recibe un informe con el costo y tiempo estimado para la implementación del proyecto.
+
 *Nota*: En proyectos grandes, se puede plantear un esquema de metodología ágil Scrum planificando sprints y negociando por sprint o bien contratando un paquete de horas.
 
 ### **Implementación**
